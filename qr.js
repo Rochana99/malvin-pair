@@ -128,8 +128,7 @@ https://github.com/Rochana99/ROCHANA-MD
 ——————
 
 > *© Powered by ROCHANA KING*
-Stay cool and hack smart. ✌🏻`;
-Stay cool and hack smart. ✌🏻*`;
+*Stay cool and hack smart. ✌🏻*`;
                             await sock.sendMessage(sock.user.id, {
 text: desc,
 contextInfo: {
